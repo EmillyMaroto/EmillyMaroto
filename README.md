@@ -4,7 +4,7 @@
 
 ## Sobre mim
 - ⚛️ Acadêmica em Ciência da Computação
-- 🔭 Voluntária projeto web pela UFOPA
+- 🔭 Voluntária projeto de desenolvimento web pela UFOPA
 - 🌱 Sempre em crescimento!
 - 📫 emillymarotoa@gmail.com
 - 😄 Pronouns: d.ela / s.her
