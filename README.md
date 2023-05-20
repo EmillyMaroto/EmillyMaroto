@@ -1,5 +1,5 @@
 <div align="center">
-<h2> Olá, me chamo Emilly Maroto! <img src="https://giphy.com/stickers/cat-yoga-goro-ViBBOfcWBPIeR6eB9S" width="50"></h2>
+<h2> Olá, me chamo Emilly Maroto! <img src="https://media1.giphy.com/media/Vnrgrf4z1Fq6OjPdLk/giphy.gif?cid=ecf05e47k4dq31bu5whix58u98i0fykuxhoiij9bg944omtk&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="50"></h2>
 </div> 
 
 ## Sobre mim
