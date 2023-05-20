@@ -7,7 +7,7 @@
 - 🔭 Voluntária em projeto de desenolvimento web pela UFOPA
 - 🌱 Sempre em crescimento!
 - 📫 emillymarotoa@gmail.com
-- 😄 Pronouns: d.ela / s.her
+- ⚡ Pronouns: d.ela / s.her
 
 ## FRONT-END
 <div style="display: inline_block"><br>
