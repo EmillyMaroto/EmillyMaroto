@@ -24,14 +24,6 @@
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-## Github  
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=emillymaroto&show_icons=true&count_private=true&hide_border=true&&show_icons=true&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillymaroto&hide_border=true&layout=compact&theme=dracula" width='41%' />
-</div>
-
-<br/>  
-
 ## Outros meios de contato  
 
 <div>
