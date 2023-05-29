@@ -35,6 +35,10 @@
 </a>  
 </div> 
 
+## Status
 
-=
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillymaroto&hide_border=true&layout=compact&theme=dracula" width='41%' />
+</div>
 
+<br/>
